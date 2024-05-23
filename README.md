@@ -1,4 +1,4 @@
-<img src="https://cs7.pikabu.ru/post_img/2018/02/19/1/1518991312189050963.jpg" alt="html" width="700">
+<img src="https://cs7.pikabu.ru/post_img/2018/02/19/1/1518991312189050963.jpg" alt="html">
 
 <h1> Future Fulstack Developer</h1>
 
@@ -20,4 +20,8 @@
 <img src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="50">
 </a>
 
-[Моє резюме](https://ghostkato.github.io/Resume-project/)
+<h2>My resume:</h2>
+
+<a href="https://ghostkato.github.io/Resume-project/">
+<img src="https://cdn-icons-png.flaticon.com/512/11003/11003181.png" alt="git" width="300">
+</a>
