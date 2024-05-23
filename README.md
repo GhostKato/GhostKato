@@ -4,9 +4,7 @@
 
 <h3>I'm currently studying at GoIt on the full stask course.</h3>
 
-<h4>How to contact me: <a>osadchenko.maksym@gmail.com</a></h4>
-
-<h3>Tech Skills:</h3>
+<h2>Tech Skills:</h2>
 
 <div class="programs">
 <a href="https://www.w3.org/html/">
@@ -34,7 +32,7 @@
 </a>
 </div>
 
-[<button >My resume</button>](https://ghostkato.github.io/Resume-project/)
+[My resume](https://ghostkato.github.io/Resume-project/)
 
 <style>
   h1 {
@@ -45,60 +43,5 @@
     display: flex;
     gap:5px;
     margin-bottom: 40px;
-  } 
-
-  button {    
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #4e75ff;
-  color: #fff;
-  border-radius: 8px;
-  padding: 8px 16px;
-  border: none;
-  font-size: 16px;
-  font-family: "Montserrat", sans-serif;
-  height: 40px;
-  transition: all 0.3s ease;
-  position: relative;
-  overflow: hidden;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-  margin: 0 auto;
-}
-
-button:hover {
-  background: #6c8cff;
-  color: fuchsia;
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
-  transform: translateY(-2px);
-}
-
-button::before {
-  content: "";
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 300%;
-  height: 300%;
-  background-color: rgba(255, 255, 255, 0.15);
-  transform: translate(-50%, -50%) rotate(45deg);
-  transition: all 0.3s ease;
-  border-radius: 50%;
-  z-index: 0;
-}
-
-button:hover::before {
-  width: 0;
-  height: 0;
-}
-
-button:active {
-  transform: translateY(1px);
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-}
-
-button span {
-  position: relative;
-  z-index: 1;
-}   
+  }   
 </style>
