@@ -1,5 +1,3 @@
-<img src="https://cs7.pikabu.ru/post_img/2018/02/19/1/1518991312189050963.jpg" alt="html">
-
 <h1> Future Fulstack Developer</h1>
 
 <h3>I'm currently studying at GoIt on the full stask course.</h3>
