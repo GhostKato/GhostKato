@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm currently studying at GoIt on the full stask course. ua</h3>
 
-<h1>Front-End Developer</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=14FF30&center=true&vCenter=&random=&width=435&lines=Front-End+Developer)](https://git.io/typing-svg)
 
 <h2>Tech Skills:</h2>
 
