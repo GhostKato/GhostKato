@@ -1,6 +1,12 @@
-<h1>Front-End Developer</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=14FF30&center=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&vCenter=&multiline=true&repeat=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&random=&width=435&lines=Hi+there%2C+I'm+Maksym;Front-End+Developer)](https://git.io/typing-svg)
 
-<h3>I'm currently studying at GoIt on the full stask course.</h3>
+
+
+<h1 align="center">Hi there, I'm <a href="[https://daniilshat.ru/](https://www.linkedin.com/in/maksym-osadchenko/)" target="_blank">Maksym</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I'm currently studying at GoIt on the full stask course. ua</h3>
+
+<h1>Front-End Developer</h1>
 
 <h2>Tech Skills:</h2>
 
