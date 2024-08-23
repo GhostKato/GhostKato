@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi there, I'm <a href="[https://daniilshat.ru/](https://www.linkedin.com/in/maksym-osadchenko/)" target="_blank">Maksym</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">I'm currently studying at GoIt on the full stask course.</h2>
 
 <h3>I am a front-end developer. As for my skills, I know HTML, CSS, JS, TS, React, Redux.
 I am currently studying Node.js.
