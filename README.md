@@ -12,6 +12,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50">
 </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://camo.githubusercontent.com/f85cece6899de7bec4dee626087a385376717cedf457d6af7d93349012447e19/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6a6176617363726970742d6f726967696e616c2e737667" alt="js" width="50">
+</a><a href="[https://www.typescriptlang.org/">
+<img src="https://camo.githubusercontent.com/458c0d3ebe5ab840c6fc3e7f5e9abb5ca9252cf5624d25d21fad3c635a18ecb8/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f747970657363726970742d6f726967696e616c2e737667" alt="js" width="50">
 </a><a href="https://ru.legacy.reactjs.org/">
 <img src="https://camo.githubusercontent.com/91b30ff3d7d15143c1dbba499a8ad310bd829fbd45f65cacaeea175fac5d85aa/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656163742d6f726967696e616c2d776f72646d61726b2e737667" alt="git" width="50">
 </a><a href="https://redux.js.org/">
