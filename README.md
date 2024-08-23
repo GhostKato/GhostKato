@@ -1,6 +1,6 @@
 <img src="img/about-me.png" alt="about me"/>
 
-<h1 align="center">Hi there, I'm <a href="[https://daniilshat.ru/](https://www.linkedin.com/in/maksym-osadchenko/)" target="_blank">Maksym</a> 
+<h1 align="center">Hi there, I'm Maksym</h1> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3>I am a front-end developer. As for my skills, I know HTML, CSS, JS, TS, React, Redux.
