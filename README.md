@@ -11,7 +11,7 @@ I like to do my job well and learn new skills quickly.
 I always try to optimize my work to be more efficient.
 I strive to achieve good positions in the company to increase the pace of production and growth of the organization, as well as for personal career growth.</p>
 
-<h2>CONTACT INFORMATION:</h2>
+<h2>Contact Information:</h2>
 
 <a href="https://www.linkedin.com/in/maksym-osadchenko/">
       <img src="https://i.pcmag.com/imagery/reviews/05QJZocZxCTxBBzuKYOJMWZ-5.fit_scale.size_760x427.v1569472374.jpg" alt="html" width="70">
