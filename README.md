@@ -13,7 +13,7 @@ I strive to achieve good positions in the company to increase the pace of produc
 
 <h2>CONTACT INFORMATION:</h2>
 
-<a href="[https://www.linkedin.com/in/maksym-osadchenko/">
+<a href="https://www.linkedin.com/in/maksym-osadchenko/">
       <img src="https://i.pcmag.com/imagery/reviews/05QJZocZxCTxBBzuKYOJMWZ-5.fit_scale.size_760x427.v1569472374.jpg" alt="html" width="50">
     </a>
 
