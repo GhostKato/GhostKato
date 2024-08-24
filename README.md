@@ -11,6 +11,8 @@ I like to do my job well and learn new skills quickly.
 I always try to optimize my work to be more efficient.
 I strive to achieve good positions in the company to increase the pace of production and growth of the organization, as well as for personal career growth.</p>
 
+<h2>CONTACT INFORMATION:</h2>
+
 <h2>Tech Skills:</h2>
 
 <table>
