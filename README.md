@@ -17,7 +17,7 @@ I strive to achieve good positions in the company to increase the pace of produc
       <img src="https://cdn.icon-icons.com/icons2/555/PNG/512/telegram_icon-icons.com_53603.png" alt="html" width="40">
     </a><a href="https://www.linkedin.com/in/maksym-osadchenko/">
       <img src="https://i.pcmag.com/imagery/reviews/05QJZocZxCTxBBzuKYOJMWZ-5.fit_scale.size_760x427.v1569472374.jpg" alt="html" width="70">
-    </a><a href="tel:+1234567890">
+    </a><a href="tel:+380954219070">
       <img src="https://s1.iconbird.com/ico/2013/9/446/w512h5121380376577FlurryGoogleGmailAlt.png" alt="html" width="70">
     </a>
 
