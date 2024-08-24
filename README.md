@@ -20,7 +20,13 @@ I strive to achieve good positions in the company to increase the pace of produc
     </a>
 
 <h2>Tech Skills:</h2>
+<a href="https://www.w3.org/html/">
+      <img src="https://camo.githubusercontent.com/0059f6336ebc9e59d21f380eb9fd024a6b06240c7bfb48415b897ab83996c209/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" alt="html" width="50">
+    </a>
 
+    <a href="https://www.w3schools.com/css/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50">
+    </a>
 
    
    
