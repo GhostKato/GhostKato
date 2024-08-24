@@ -12,23 +12,14 @@ I always try to optimize my work to be more efficient.
 I strive to achieve good positions in the company to increase the pace of production and growth of the organization, as well as for personal career growth.</p>
 
 <h2>Contact Information:</h2>
-<table>
-       <tr>
-      <tr>
-            <td>
+
 <a href="https://t.me/ghost_kato">
       <img src="https://cdn.icon-icons.com/icons2/555/PNG/512/telegram_icon-icons.com_53603.png" alt="html" width="40">
-    </a>
-         </td>  
-             <td>
+    </a>         
       <a href="https://www.linkedin.com/in/maksym-osadchenko/">
       <img src="https://i.pcmag.com/imagery/reviews/05QJZocZxCTxBBzuKYOJMWZ-5.fit_scale.size_760x427.v1569472374.jpg" alt="html" width="70">
-    </a>
-           </td>        
-      </tr>
-    </table>
+    </a>          
     
-
 <h2>Tech Skills:</h2>
 <table>
   <tr>
