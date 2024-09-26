@@ -5,7 +5,7 @@
 
 <p>I am a front-end developer. As for my skills, I know HTML, CSS, JS, TS, React, Redux.
 I am currently studying Node.js.
-I have been coding for 8 months and during this time I have done 2 successful team projects and 5 individual ones.
+I have been coding for 9 months and during this time I have done 2 successful team projects and 5 individual ones.
 I have good computer skills and quickly learn how to work with various programs.
 I like to do my job well and learn new skills quickly.
 I always try to optimize my work to be more efficient.
