@@ -3,8 +3,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/maksym-osadchenko/" target="_blank">Maksym</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<p>I am a front-end developer. As for my skills, I know HTML, CSS, JS, TS, React, Redux.
-I am currently studying Node.js.
+<p>I am a full-stack developer. As for my skills, I know HTML, CSS, JS, TS, React, Redux, Node.js.
 I have been coding for 9 months and during this time I have done 2 successful team projects and 5 individual ones.
 I have good computer skills and quickly learn how to work with various programs.
 I like to do my job well and learn new skills quickly.
@@ -42,6 +41,9 @@ I strive to achieve good positions in the company to increase the pace of produc
     </a></td>
     <a href="https://redux.js.org/">
       <img src="img/redux.svg" alt="redux" width="50">
+    </a>
+    <a href="https://nodejs.org/">
+      <img src="img/node-js.svg" alt="redux" width="56">
     </a>
    <a href="https://www.figma.com/">
       <img src="img/figma.svg" alt="figma" width="35">
