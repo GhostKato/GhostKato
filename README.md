@@ -42,12 +42,12 @@ Furthermore, I always try to optimize my work to be more efficient. I strive to 
     <a href="https://nodejs.org/">
       <img src="img/node-js.svg" alt="redux" width="56">
     </a>
-   <a href="https://www.figma.com/">
-      <img src="img/figma.svg" alt="figma" width="35">
-    </a>
-   <a href="https://git-scm.com/">
+    <a href="https://git-scm.com/">
       <img src="img/git.svg" alt="git" width="55">
     </a>
+   <a href="https://www.figma.com/">
+      <img src="img/figma.svg" alt="figma" width="35">
+    </a>   
 <a href="https://www.postman.com/">
       <img src="img/postman.svg" alt="git" width="65">
     </a>
