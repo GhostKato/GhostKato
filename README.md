@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/maksym-osadchenko/" target="_blank">Maksym</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<p>I am a full-stack developer. As for my skills, I know HTML, CSS, JS, TS, React, Redux, Node.js. I have been coding for 13 months, and during this time I have done 3 successful team projects and 3 individual ones.
+<p>I am a full-stack developer. As for my skills, I know HTML, CSS, JS, TS, React, Redux, SASS, Node.js. I have been coding for 13 months, and during this time I have done 3 successful team projects and 3 individual ones.
 I have good computer skills and quickly learn how to work with various programs. Not only that, but I like to do my job well and learn new skills quickly.
 Furthermore, I always try to optimize my work to be more efficient. I strive to achieve good positions in the company to increase the pace of production and growth of the organization, as well as for personal career growth.</p>
 
