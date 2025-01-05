@@ -39,8 +39,14 @@ Furthermore, I always try to optimize my work to be more efficient. I strive to 
     <a href="https://redux.js.org/">
       <img src="img/redux.svg" alt="redux" width="50">
     </a>
+    <a href="https://sass-lang.com/">
+      <img src="img/sass.svg" alt="redux" width="65">
+    </a>
     <a href="https://nodejs.org/">
       <img src="img/node-js.svg" alt="redux" width="56">
+    </a>
+    <a href="https://www.mongodb.com/">
+      <img src="img/mongodb.svg" alt="redux" width="65">
     </a>
     <a href="https://git-scm.com/">
       <img src="img/git.svg" alt="git" width="55">
