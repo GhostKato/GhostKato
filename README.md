@@ -1,7 +1,6 @@
 ### Hi there 👋, My name is Maksym
-#### I am a FullStack devolper
 
-<img src="img/about-me.png" alt="about me"/>
+#### I am a FullStack devolper
 
 # 💻 Tech Stack:
 
@@ -23,5 +22,10 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23327394.svg?style=for-the-badge&logo=rest-api&logoColor=white)
 
-[![GhostKato's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GhostKato&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![GhostKato's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GhostKato&bg_color=000000&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=GhostKato&theme=dark&border_radius=8)](https://git.io/streak-stats)
+
+[![GhostKato's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhostKato&show_icons=true&theme=dark&count_private=true)](https://github.com/GhostKato)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostKato&layout=compact&theme=dark)](https://github.com/GhostKato)
