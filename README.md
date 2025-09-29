@@ -1,3 +1,6 @@
+### Hi there 👋, My name is Maksym
+#### I am a FullStack devolper
+
 <img src="img/about-me.png" alt="about me"/>
 
 # 💻 Tech Stack:
