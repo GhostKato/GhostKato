@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Maksym
 
-#### I am a FullStack devolper
+#### I am a Full-stack devolper
 
 # 💻 Tech Stack:
 
