@@ -27,6 +27,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GhostKato&theme=dark&border_radius=8)](https://git.io/streak-stats)
 
-[![GhostKato's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhostKato&show_icons=true&theme=dark&count_private=true)](https://github.com/GhostKato)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostKato&layout=compact&theme=dark)](https://github.com/GhostKato)
+
+
